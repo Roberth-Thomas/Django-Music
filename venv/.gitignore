@@ -172,15 +172,3 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/django
-
-# Ignorar arquivos de ambiente
-.env
-
-# Ignorar banco de dados SQLite
-db.sqlite3
-
-# Outras entradas comuns para projetos Django
-*.pyc
-__pycache__/
-media/
-staticfiles/
