@@ -170,7 +170,7 @@ table {
 }
 
 .card__tag {
-    background-color: #D9D9D940;
+    background-color: #00000040;
     border-radius: 8px;
     border: 2px solid transparent;
     font-size: 1.2rem;
