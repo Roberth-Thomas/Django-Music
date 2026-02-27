@@ -3,7 +3,8 @@
 ---
 
 ### 🌐 Interface do Usuário (Frontend)
-<img width="1070" src="https://github.com/user-attachments/assets/b8c02be8-af8d-4319-8d87-45affdb379b8" />
+<img width="829" height="904" alt="image" src="https://github.com/user-attachments/assets/94f59013-2969-431e-b87e-b1c502ecc0fb" />
+
 
 <br>
 
